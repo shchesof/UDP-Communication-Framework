@@ -1,0 +1,242 @@
+-------------------- BEGIN --------------------------
+1
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+2
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+3
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+4
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+5
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+6
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+7
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+8
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+9
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+10
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+11
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+12
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+13
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+14
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+15
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zob17razenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+16
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+17
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+18
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+19
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+20
+Mnozstvi teoretickych poznatku, ktere jsme vybudovali v predchozich kapitolach, zacneme urocit. Abstraktni
+teorie linearnich prostoru a linearnich zobrazeni nam nedavala moc prostredku ke konkretnim vypoctum. Svetlou
+vyjimkou se zdaly byt vypocty s maticemi z Kapitoly 4. V teto kapitole ukazeme, ze to neni vyjimka, ale pravidlo:
+s obecnymi linearnimi zobrazenimi mezi prostory konecne dimense muzeme provadet zcela konkretni vypocty
+pomoci matic (a pripadne determinantu matic).
+Podkapitola 9.1 je venovana maticim obecnych linearnich zobrazeni. Vysvetlime, ze (do velke miry) je jedno,
+zda studujeme linearni zobrazeni nebo jeho matici. Matice linearniho zobrazeni je vzdy pocitana vzhledem
+k pevne zvolenym bazim (tj. vzhledem k pevne zvolenym souradnicovym systemum). Co se stane, kdyz se
+rozhodneme souradnicovy system zmenit? V podkapitole 9.2 ukazeme, ze se zas tak moc nestane: staci jen
+prepocitat souradnice. A to se opet da udelat pomoci matic. V podkapitole 9.3 zjistime, jak moc se lisi matice
+stejneho linearniho zobrazeni vzhledem k ruznym bazim.
+-------------------- END --------------------------
